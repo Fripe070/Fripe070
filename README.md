@@ -9,10 +9,12 @@ I'm a random person on the internet. Heres some info about me:
 
 <details>
 <summary>Favorite games 🎮</summary>
+  
   [Minecraft](https://www.minecraft.net/)  
   [Terraria](https://store.steampowered.com/app/105600/Terraria/)  
   [Noita](https://store.steampowered.com/app/881100/Noita/)  
   [Subnautica](https://store.steampowered.com/app/264710/Subnautica/)
+  
 </details>
 
 <p align="center">  
