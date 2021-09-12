@@ -1,4 +1,4 @@
-<h1> Hi, I'm [Fripe](https://github.com/Fripe070)! <img src="https://cdn.discordapp.com/emojis/826546112374243353.gif" width="30"></h2>
+<h1> Hi, I'm Fripe! <img src="https://cdn.discordapp.com/emojis/826546112374243353.gif" width="30"></h2>
 I'm a random person on the internet. Heres some info about me:
 
 - 💻 I like to code in python
