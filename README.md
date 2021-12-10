@@ -3,7 +3,7 @@ I'm a random person on the internet. Heres some info about me:
 
 - 💻 I like to code in python
 - ☕ I’m currently learning Java
-- 👀 I'm a member of [MDSP](https://github.com/M-D-S-T)
+- 👀 I'm a member of [MDSP](https://github.com/minecraftdiscordsupportpeeps)
 - 🕹 I play games
 - 🗣️ I'm a discord user
 
