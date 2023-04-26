@@ -8,8 +8,6 @@ from typing import Any, Literal, Callable
 
 class Fripe(Student):
     def __init__(self, name: Literal["Fripe", "froop"] = "Fripe") -> None:
-        if name not in ["Fripe", "froop"]:
-            raise ValueError
         self.name = name
         self.born_at = datetime.min
         self.skills = []
@@ -34,4 +32,3 @@ class Fripe(Student):
 
 ```
 
-![🤓](https://github-readme-stats.vercel.app/api/top-langs/?username=Fripe070&theme=github_dark&layout=compact&border_color=30363d "🤓")
