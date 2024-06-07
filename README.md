@@ -33,8 +33,6 @@ class Fripe(Student):
 ```
 
 
-
-
 ```math
 \ce{$\unicode[
     color: unset;
@@ -51,4 +49,21 @@ class Fripe(Student):
     mix-blend-mode: difference;
     background-blend-mode: difference;
 ]{0}$}
+``` 
+
+```math
+\ce{$\unicode[
+    color: unset;
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1000;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.4;
+    background: linear-gradient(96deg, rgba(2,0,36,1) 0%, rgba(16,84,140,1) 43%, rgba(0,212,255,1) 100%);
+    background-size: cover;
+]{0}$}
+```
 
