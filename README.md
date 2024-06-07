@@ -48,6 +48,7 @@ class Fripe(Student):
     opacity: 0.8;
     background: url('https://raw.githubusercontent.com/Fripe070/Fripe070/main/colon%20three.webp');
     background-size: contain;
-    mix-blend-mode: multiply;
+    mix-blend-mode: difference;
+    background-blend-mode: difference;
 ]{0}$}
 
