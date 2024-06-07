@@ -32,3 +32,21 @@ class Fripe(Student):
 
 ```
 
+
+
+
+```math
+\ce{$\unicode[
+    color: unset;
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.8;
+    background: url('https://raw.githubusercontent.com/Fripe070/Fripe070/main/colon%20three.webp');
+    background-size: contain;
+    mix-blend-mode: multiply;
+]{0}$}
+
