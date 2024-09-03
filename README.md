@@ -16,18 +16,14 @@ class Fripe(Student):
         self,
         work: Callable,
         /,
-        time_limit_seconds: int = -1,
+        time_limit_seconds: int | None = None
         *work_args: Any,
         **work_kvargs: Any,
     ) -> Any:
-        if time_limit_seconds == -1:
+        if time_limit_seconds is None:
             return
             
-        portion_to_use_for_work = 1 / 4
-        self.procastinate(max(0, time_limit_seconds) * 1/portion_to_use_for_work)
+        time.sleep(max(0, time_limit_seconds) * 3/4)
         return work(*work_args, **work_kvargs)
-
-    def procastinate(self, seconds: int, /) -> None:
-        time.sleep(seconds)
 
 ```
