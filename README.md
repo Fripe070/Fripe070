@@ -16,7 +16,7 @@ class Fripe(Student):
         self,
         work: Callable,
         /,
-        time_limit_seconds: int | None = None
+        time_limit_seconds: int | None = None,
         *work_args: Any,
         **work_kvargs: Any,
     ) -> Any:
