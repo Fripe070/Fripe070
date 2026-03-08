@@ -47,5 +47,4 @@ class Fripe(Student, stage="University", org="KTH"):
     def __call__(self, *args) -> None:
         if random.random() < 0.85:
             self.knowledge.append(args)
-        return "uh huh"
 ```
