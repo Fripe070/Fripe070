@@ -5,7 +5,7 @@ import time
 from typing import Any, Literal, Callable, override
 from universal import Student
 
-class Fripe(Student, stage="Gymnasium"): # Equiv to HS in other countries
+class Fripe(Student, stage="University", org="KTH"):
     def __init__(
         self, 
         name: Literal["Fripe", "froop"] = "Fripe",
